@@ -1,0 +1,20 @@
+* {
+  font-family: Helvetica;
+  font-size: 1em;
+  color:#585858;
+}
+
+.wrapper {
+  width:40%;
+  margin: 20px auto;
+  padding:10px;
+/*  border: 1px solid purple;*/
+  border-radius: 8px;
+}
+.error{
+  color: #c00;
+}
+
+.success{
+  color: green;
+}
